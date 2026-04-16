@@ -9,17 +9,17 @@
   • 🚀 <strong>&nbsp; APIs & Event-Driven Systems</strong> using Kafka<br>
   • 🐳 <strong>&nbsp; Docker & Terraform</strong> for infrastructure and deployment<br>
 </div>
+</br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Vini-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Vini-Docker" height="35" width="45" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-  <img align="center" alt="Vini-Terraform" height="35" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-  <img align="center" alt="Vini-Terraform" height="35" width="45"
-    src="https://devicon-website.vercel.app/api/apachekafka/original.svg?color=%23E3E3E3"></img>
-</div>
+<p align="left">
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
+  <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /></code>
+  <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></code>
+  <code><img height="35" src="https://devicon-website.vercel.app/api/apachekafka/original.svg?color=%23E3E3E3"></img></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></code>
+</p>
 
 ##
 
