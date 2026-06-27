@@ -8,6 +8,7 @@
   • 🧩 <strong>&nbsp; Microservices Architecture</strong> & scalable system design<br>
   • 🚀 <strong>&nbsp; APIs & Event-Driven Systems</strong> using Kafka and SQS<br>
   • 🐳 <strong>&nbsp; Docker & Terraform</strong> for infrastructure and deployment<br>
+  • 🤖 <strong>&nbsp; AI Agents & SDD</strong> optimized for high-performance and autonomy<br>
 </div>
 </br>
 
