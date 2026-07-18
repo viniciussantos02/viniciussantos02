@@ -1,9 +1,7 @@
 <h1>Hi there, I'm Vinicius! 👋</h1>
 </br>
-
 <div>
   ✨ <strong>Software Engineer</strong> focused on backend development<br><br>
-
   • ☕ <strong>&nbsp; Java & Spring Boot</strong> for building robust applications<br>
   • 🧩 <strong>&nbsp; Microservices Architecture</strong> & scalable system design<br>
   • 🚀 <strong>&nbsp; APIs & Event-Driven Systems</strong> using Kafka and SQS<br>
@@ -11,6 +9,12 @@
   • 🤖 <strong>&nbsp; AI Agents & SDD</strong> optimized for high-performance and autonomy<br>
 </div>
 </br>
+
+<p align="left">
+  <a href="https://www.credly.com/badges/1ce72989-b9d7-475c-b2db-c254a1cd0acb/public_url" target="_blank" rel="noopener noreferrer">
+    <img height="100" src="https://github.com/user-attachments/assets/585318fb-babd-49a0-a282-2b225e509c5d" alt="AWS Certified Cloud Practitioner"/>
+  </a>
+</p>
 
 <p align="left">
   <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
@@ -23,9 +27,7 @@
   <code><img height="41" src="https://github.com/user-attachments/assets/5463ab75-1cd8-4ea9-9649-4c1e73349147" /></code>
 </p>
 
-
 ##
-
 <div>
   <a href="https://www.linkedin.com/in/vinícius-santos-pereira-138a44148" 
      target="_blank" 
